@@ -1,3 +1,3 @@
 #Kokoa Clone 2020 Update
 
-css got so much better!
+내용 박꾸기
